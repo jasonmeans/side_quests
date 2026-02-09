@@ -1,11 +1,8 @@
-# Prototypes & Experiments
+# Prototypes
 
-This folder is a playground for conducting prototypes, MVPs, and experimental code. 
+Quick experiments and proof-of-concepts live here.
 
-Use this space to:
-- Build quick proof-of-concepts
-- Test new technologies and frameworks
-- Create minimal viable products (MVPs)
-- Experiment with different approaches and solutions
-
-Feel free to iterate, break things, and explore without the constraints of production code.
+## Working Agreement
+- Keep experiments small and timeboxed
+- Add a README for each experiment with objective and outcome
+- Delete dead experiments aggressively
